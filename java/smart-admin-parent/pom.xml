@@ -48,7 +48,7 @@
         <velocity-engine-core.version>2.0</velocity-engine-core.version>
         <client.version>1.0.0-SNAPSHOT</client.version>
         <springboot.redis.version>2.0.2.RELEASE</springboot.redis.version>
-        <apache-poi-version>3.15</apache-poi-version>
+        <apache-poi-version>4.1.2</apache-poi-version>
         <easypoi-version>3.3.0</easypoi-version>
         <jpush-api-version>3.3.4</jpush-api-version>
         <commons-beanutils.version>1.9.3</commons-beanutils.version>
