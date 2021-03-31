@@ -29,7 +29,7 @@
         <sql-server.version>6.3.2.jre8-preview</sql-server.version>
         <fastjson.version>1.2.9</fastjson.version>
         <feign-gson-version>8.18.0</feign-gson-version>
-        <guava-version>23.1-jre</guava-version>
+        <guava-version>29.0-jre</guava-version>
         <pagehelper-version>1.2.3</pagehelper-version>
         <oss.version>2.7.0</oss.version>
         <qiniu.version>[7.2.0, 7.2.99]</qiniu.version>
