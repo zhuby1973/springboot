@@ -14,7 +14,7 @@
         <log4j.web.version>2.10.0</log4j.web.version>
         <smartadmin.springboot.version>2.1.9.RELEASE</smartadmin.springboot.version>
         <smartadmin.springcloud.version>Finchley.SR1</smartadmin.springcloud.version>
-        <spring-framework-bom.version>5.1.10.RELEASE</spring-framework-bom.version>
+        <spring-framework-bom.version>5.1.18.RELEASE</spring-framework-bom.version>
         <actuator.version>2.0.5.RELEASE</actuator.version>
         <jolokia.version>1.5.0</jolokia.version>
         <micrometer.version>1.0.6</micrometer.version>
