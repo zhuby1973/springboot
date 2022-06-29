@@ -16,7 +16,7 @@
         <smartadmin.springcloud.version>Finchley.SR1</smartadmin.springcloud.version>
         <spring-framework-bom.version>5.1.10.RELEASE</spring-framework-bom.version>
         <actuator.version>2.0.5.RELEASE</actuator.version>
-        <jolokia.version>1.5.0</jolokia.version>
+        <jolokia.version>1.6.1</jolokia.version>
         <micrometer.version>1.0.6</micrometer.version>
         <thymeleaf-extras-data-attribute.version>2.0.1</thymeleaf-extras-data-attribute.version>
         <thymeleaf-extras-java8time.version>3.0.1.RELEASE</thymeleaf-extras-java8time.version>
